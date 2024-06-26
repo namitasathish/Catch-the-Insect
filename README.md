@@ -1,2 +1,2 @@
 # Catch-the-Insect
-A free runner game, designed using HTML, CSS and Javascript
+An Arcade themed free runner game, with the goal of 'catching' most insects to secure points
